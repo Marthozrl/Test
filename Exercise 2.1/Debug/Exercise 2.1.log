@@ -1,0 +1,3 @@
+﻿  Exercise 2.1.cpp
+C:\Users\marti\OneDrive\Desktop\Exercise 3\Exercise 2.1\Exercise 2.1.cpp(70,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exercise 2.1.vcxproj -> C:\Users\marti\OneDrive\Desktop\Exercise 3\Debug\Exercise 2.1.exe
